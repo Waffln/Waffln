@@ -30,4 +30,6 @@
   <img src="https://media.giphy.com/media/sJWNLTclcvVmw/giphy.gif?cid=790b76118msexmu5ve1by7ulosc9w1rcffit65493cb8yl9x&ep=v1_gifs_trending&rid=giphy.gif&ct=g"/>
 </p>
 
-![snake animation](https://github.com/<seu Waffln>/<seu Waffln>/blob/output/github-contribution-grid-snake2.svg)
+<div align = center>
+<img src = "https://raw.githubusercontent.com/1202dreamscape/1202dreamscape/output/github-contribution-grid-snake.svg">
+</div>
