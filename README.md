@@ -30,6 +30,4 @@
   <img src="https://media.giphy.com/media/sJWNLTclcvVmw/giphy.gif?cid=790b76118msexmu5ve1by7ulosc9w1rcffit65493cb8yl9x&ep=v1_gifs_trending&rid=giphy.gif&ct=g"/>
 </p>
 
-<div align = center>
-<img src = "https://raw.githubusercontent.com/Waffln/Waffln/output/github-contribution-grid-snake.svg">
-</div>
+![snake gif](https://github.com/Waffln/Waffln/blob/output/github-contribution-grid-snake.gif)
